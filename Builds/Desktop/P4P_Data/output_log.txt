@@ -1,0 +1,33 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x13d7)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Hackathons\P4P\P4P\Builds\Desktop\P4P_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.464945 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bcc0 -> priority: 1 
+  Thread -> id: 1b6f0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.467079 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.189365 ms (FindLiveObjects: 0.011546 ms CreateObjectMapping: 0.011290 ms MarkObjects: 0.160370 ms  DeleteObjects: 0.005645 ms)
+
